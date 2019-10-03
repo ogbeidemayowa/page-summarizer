@@ -1,3 +1,4 @@
+![Image of HNG](https://camo.githubusercontent.com/1bfef7da342d1fdeff0a8648e636edab37af029f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f69616d6265656a617961796f2f696d6167652f75706c6f61642f76313535343234303036362f6272616e642d6c6f676f2e706e67)
 # Page-Summarizer
       Text summarization is the technique for generating a concise and precise summary of voluminous texts while focusing on the sections that convey useful information, and without losing the overall meaning.
  # Machine learning Libraries used
